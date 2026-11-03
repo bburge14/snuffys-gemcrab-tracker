@@ -2,6 +2,10 @@
 
 Each version's changes, newest first.
 
+## 1.1.4 (2026-11-03)
+
+- Planner plans: milestones show progress (bar, % and actions done) and tick off as Done when passed, with a game chat message naming the next one and one at the goal
+
 ## 1.1.3 (2026-11-02)
 
 - Plugin Hub feedback: RuneLite's AudioPlayer, and one plugin per pull request
