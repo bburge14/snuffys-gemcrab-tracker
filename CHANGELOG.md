@@ -2,6 +2,10 @@
 
 Each version's changes, newest first.
 
+## 1.2.0 (2026-11-04)
+
+- Settings: names and choices fit the sidebar (shorter labels and names, saved keys unchanged), and the settings test now lays out each plugin's panel at the sidebar's width and fails on anything cut short
+
 ## 1.1.4 (2026-11-03)
 
 - Planner plans: milestones show progress (bar, % and actions done) and tick off as Done when passed, with a game chat message naming the next one and one at the goal
